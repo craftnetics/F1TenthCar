@@ -1,14 +1,14 @@
 ### F1TenthCar
 
 #### Folder Structure of the Repository
-./Software
-  ./ROS
-./Hardware
-  ./CAx/
-    ./CAD
-      ./mCAD
-      ./eCAD
-    ./CAM
+./Software  
+  ./ROS  
+./Hardware  
+  ./CAx/  
+    ./CAD  
+      ./mCAD  
+      ./eCAD  
+    ./CAM  
 
 #### Computer Aided Design (CAD) Model of 3D Printed F1Tenth
 
