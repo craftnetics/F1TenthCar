@@ -3,6 +3,7 @@
 #### Folder Structure of the Repository
 ./Software  
 &nbsp;./ROS  
+&nbsp;./Firmware
 ./Hardware  
 &nbsp;./CAx/  
 &nbsp;&nbsp;./CAD  
