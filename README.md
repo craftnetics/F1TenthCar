@@ -2,13 +2,13 @@
 
 #### Folder Structure of the Repository
 ./Software  
-  ./ROS  
+&nbsp;./ROS  
 ./Hardware  
-  ./CAx/  
-    ./CAD  
-      ./mCAD  
-      ./eCAD  
-    ./CAM  
+&nbsp;./CAx/  
+&nbsp;&nbsp;./CAD  
+&nbsp;&nbsp;&nbsp;./mCAD  
+&nbsp;&nbsp;&nbsp;./eCAD  
+&nbsp;&nbsp;./CAM  
 
 #### Computer Aided Design (CAD) Model of 3D Printed F1Tenth
 
